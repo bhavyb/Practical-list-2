@@ -1,6 +1,6 @@
-// 220130318038
-// Bhvay Bhuva
 // Write a C++ program to define a function outside the class using scope resolution operator
+//220130318038
+//Bhavy Bhuva
 #include <iostream>
 using namespace std;
 
