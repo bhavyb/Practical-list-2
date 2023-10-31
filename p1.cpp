@@ -1,5 +1,6 @@
-
-//. Write a C++ program to access global variable using scope resolution operator without using class.
+// Write a C++ program to access global variable using scope resolution operator without using class.
+//220130318038
+//Bhavy Bhuva
 #include <iostream>  
 using namespace std;  
 int num=15;  
