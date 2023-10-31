@@ -1,4 +1,4 @@
-// 5 Write a C++ program for setprecision() function.
+// Write a C++ program for setprecision() function.
 //220130318038
 //Bhavy Bhuva
 #include <iostream>    
