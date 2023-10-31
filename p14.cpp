@@ -1,4 +1,4 @@
-//.Write a C++ program to calculate cube of a given number using inline function.
+//Write a C++ program to calculate cube of a given number using inline function.
 //220130318038
 //Bhavy Bhuva
 #include<iostream>
