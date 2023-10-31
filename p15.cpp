@@ -1,4 +1,4 @@
-//.Write a C++ program to calculate square of a given number using inline function.
+//Write a C++ program to calculate square of a given number using inline function.
 #include<iostream>
 using namespace std;
 inline int square (int);
