@@ -1,4 +1,4 @@
-//.Write a C++ program to demonstrate use of constant argument
+//Write a C++ program to demonstrate use of constant argument
 //220130318038
 //Bhavy Bhuva
 #include<iostream>
