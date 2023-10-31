@@ -1,4 +1,4 @@
-//.Write a C++ program to add two integer values using call by reference.
+//Write a C++ program to add two integer values using call by reference.
 #include <iostream>  
 using namespace std;
 int add(int&,int&);
